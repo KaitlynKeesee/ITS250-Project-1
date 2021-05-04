@@ -1,7 +1,5 @@
 # ITS250-Project-1
-Project 1 - Kaitlyn Keesee and Malia McKay. Both students worked together to write this code.
-
-This is a Python project created for ITS 250 at Campbell University. 
+A Python project created for ITS 250 at Campbell University by Kaitlyn Keesee and Malia McKay. Both students worked together to write this code.
 
 This program is used to calculate if the user's SAT score is at the required level for acceptance at Campbell University, 
 North Carolina State University, and University of North Carolina.
